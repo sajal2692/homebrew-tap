@@ -3,8 +3,8 @@ class HevyCli < Formula
 
   desc "CLI tool to interact with the Hevy fitness app API"
   homepage "https://github.com/sajal2692/hevy-cli"
-  url "https://github.com/sajal2692/hevy-cli/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "ee3e16e5b930a3b871d880b345b4d5210a2e85600874e382a8709653076e3f80"
+  url "https://github.com/sajal2692/hevy-cli/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "8a7edcfe5a3fa3ed8b916830897ec4e58c20b4e425b242ee2d204c967e806eaa"
   license "MIT"
 
   depends_on "python@3.12"
